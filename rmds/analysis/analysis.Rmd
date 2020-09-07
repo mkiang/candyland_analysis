@@ -1,7 +1,7 @@
 ---
 title: |
-  Optimizing Candy Land "House Rules": Reducing toddler-bedtime-routine-induced
-  headaches
+  Optimizing Candy Land "House Rules": Reducing parental 
+  toddler-bedtime-routine-induced distress
 
 # Use letters for affiliations
 author:
@@ -187,7 +187,7 @@ ggsave(
   \end{center}
 \end{figure}
 
-## Game duration is shortested under the All Best Choice set
+## Game duration is shortest under the All Best Choice set
 
 In Fig. \ref{fig:p_winning_dist}, we show the duration of games (as number of moves required by the winning player) under each rule set. All variants reduced the number of moves required to win relative to the Standard set. In the Standard set, the winning player required an average (SD) of 13.0 (5.82) moves before winning compared to 12.0 (4.80) moves in the Youngest Forward-Only set. The All Best Choice (mean: 7.0; SD: 2.21) and Youngest Best Choice (mean: 10.7; SD: 3.93) sets reduced variation while also lowering game time. 
 

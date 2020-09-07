@@ -11,9 +11,9 @@ knitr::opts_chunk$set(
 )
 ```
 
-## Optimizing Candy Land "House Rules": Reducing toddler-bedtime-routine-induced headaches
+## Optimizing Candy Land "House Rules": Reducing parental toddler-bedtime-routine-induced distress
 
-Reproducible code for our preprint "Optimizing Candy Land "House Rules": Reducing toddler-bedtime-routine-induced headaches".
+Reproducible code for our preprint "Optimizing Candy Land "House Rules": Reducing parental toddler-bedtime-routine-induced distress".
 
 ## TODO
 
