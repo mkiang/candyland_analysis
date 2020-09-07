@@ -288,6 +288,10 @@ ggsave(
 
 In any given bedtime routine, the ideal rule set will vary. For Objective 1, maximizing the probability Player 1 wins, the Youngest Best Choice set is the optimal rule set. Under this set, Player 1 wins over 99.5% of all games played. For Objective 2, minimizing the game duration, the the All Best Choice set lasts about half as long as the Standard set (7 moves vs 13 moves) while also reducing variability in game duration (SD of 2.2 vs 5.8). While the Youngest Forward-Only set is not optimal for either objective, it is the most likely to achieve high compliance by younger players and still provides substantial improvements over the Standard set. 
 
+## Ethical considerations
+
+With great power comes great responsibility. Household policymakers must acknowledge the risk and consequences of employing the implications of our paper in the real world for prolonged periods of time. As any academic knows, losing, rejection, and backwards movement are inevitable, necessary parts of life. Trade-offs between parent mental health and potentially skewing the world view of young children must be thoughtfully weighted. We leave this exercise to the reader.
+
 # Materials and Methods
 
 ## Data
