@@ -135,7 +135,7 @@ Fig. 1 shows the standard Candy Land board with every tenth space enumerated by 
 knitr::include_graphics(here("data_raw", "player_pieces.jpeg"))
 ```
 
-Each player is represented by a marker (Fig. 2) — the standard fourth marker in this specific specimen was lost to the ravages of toddler-time and replaced by a dinosaur. The accompany deck consisting of 64 cards (Fig. 3). Cards can be single-color, double-color, or one of seven pink specialty candy locations (see For any given bedtime routine, the ideal rule set will vary.  Text S1). 
+Each player is represented by a marker (Fig. 2) — the standard fourth marker in this specific specimen was lost to the ravages of toddler-time and replaced by a dinosaur. The accompany deck consisting of 64 cards (Fig. 3). Cards can be single-color, double-color, or one of seven pink specialty candy locations (see Text S1). 
 
 Game play in Candy Land is non-strategic, with deterministic rules for each card. Because the outcome is predetermined by the order of cards in a shuffled deck, the only way to manipulate Candy Land outcomes is by changing the rules.
 
