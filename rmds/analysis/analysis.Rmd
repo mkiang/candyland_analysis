@@ -22,7 +22,7 @@ address:
 lead_author_surname: Optimizing Candy Land "House Rules"
 
 # Place eg a DOI URL or CRAN Package URL here
-doi_footer: "http://github.com/mkiang/optimizing_candyland"
+doi_footer: "http://github.com/mkiang/candyland_analysis"
 
 # Abstract
 abstract: |
@@ -318,7 +318,7 @@ create_deck(n_decks = 1, shuffled = FALSE)
 
 ## Reproducible code
 
-All code required to re-run, modify, or inspect this paper is available online at [`http://github.com/mkiang/optimizing_candyland`](http://github.com/mkiang/optimizing_candyland). We note that this code simulates Candy Land under the current regulations; however, previous iterations of the game had different card ratios and potentially different board spaces. We provide convenience functions for changing each as `create_deck()` and `create_board()` in the `./code/utils.R` file. 
+All code required to re-run, modify, or inspect this paper is available online at [`http://github.com/mkiang/candyland_analysis`](http://github.com/mkiang/candyland_analysis). We note that this code simulates Candy Land under the current regulations; however, previous iterations of the game had different card ratios and potentially different board spaces. We provide convenience functions for changing each as `create_deck()` and `create_board()` in the `./code/utils.R` file. 
 
 ```{r}
 source(here("code", "00_draw_standard_board.R"))
